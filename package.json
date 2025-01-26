@@ -12,7 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "gh-pages": "^6.3.0",
-    "tailwind": "^4.0.0"
+    "tailwind": "^4.0.0",
+    "tailwind-scrollbar-hide": "^2.0.0"
   },
   "homepage": "https://JaeHyunLee123.github.io/youth-that-s-youg-setlist"
 }
